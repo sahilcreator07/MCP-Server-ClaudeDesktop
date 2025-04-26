@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lead_001",
+    "name": "Tech Innovations",
+    "industry": "Software",
+    "company_size": 300,
+    "budget": 50000.0,
+    "intent_score": 85
+  },
+  {
+    "id": "lead_002",
+    "name": "AntroAI",
+    "industry": "Software",
+    "company_size": 500,
+    "budget": 80000.0,
+    "intent_score": 90
+  },
+  {
+    "id": "lead_003",
+    "name": "TechSolutions Inc.",
+    "industry": "Technology",
+    "company_size": 120,
+    "budget": 85000.0,
+    "intent_score": 75
+  },
+  {
+    "id": "lead_004",
+    "name": "GreenLife Grocers",
+    "industry": "Retail",
+    "company_size": 45,
+    "budget": 28000.0,
+    "intent_score": 60
+  },
+  {
+    "id": "lead_005",
+    "name": "Pinnacle Financial Group",
+    "industry": "Finance",
+    "company_size": 280,
+    "budget": 150000.0,
+    "intent_score": 85
+  },
+  {
+    "id": "lead_006",
+    "name": "HealthFirst Clinic",
+    "industry": "Healthcare",
+    "company_size": 65,
+    "budget": 42000.0,
+    "intent_score": 70
+  },
+  {
+    "id": "lead_007",
+    "name": "Momentum Manufacturing",
+    "industry": "Manufacturing",
+    "company_size": 175,
+    "budget": 93000.0,
+    "intent_score": 65
+  }
+]
